@@ -1,12 +1,14 @@
 # CyberCalc v1.0.4
 
-Десктопный калькулятор на **Python (`tkinter`)**, выполненный в стилистике **кибер-минимализма** с неоновой цветовой палитрой.
+> 🌐 **Language:** **English** | [Русский (README_Ru.md)](README_Ru.md)
 
-## ✨ Возможности
-- 🎨 **Киберпанк-интерфейс** — глубокая тёмная тема (`#0D1117`) с неоновым дисплеем (`#00F0FF`) и подсветкой операторов.
-- ⌨️ **Полная поддержка клавиатуры** — ввод выражений, вычисление по `Enter`, удаление по `Backspace` и сброс по `Esc` с визуальным откликом кнопок.
+A desktop calculator built with **Python (`tkinter`)**, styled in a **cyber-minimalist** aesthetic with a high-contrast neon palette.
 
-## 🚀 Запуск
+## ✨ Features
+- 🎨 **Cyberpunk UI** — deep dark theme (`#0D1117`) paired with a glowing cyan display (`#00F0FF`) and highlighted operators.
+- ⌨️ **Full Keyboard Support** — type expressions directly, evaluate with `Enter`, delete with `Backspace`, and clear with `Esc`, complete with visual button press feedback.
+
+## 🚀 Usage
 
 ```bash
 python3 calculator.py
